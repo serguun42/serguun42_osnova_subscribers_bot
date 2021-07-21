@@ -1,0 +1,33 @@
+{
+	"SITES": [
+		{
+			"name": "TJournal",
+			"shortname": "tj",
+			"domain": "https://tjournal.ru",
+			"api_domain": "https://api.tjournal.ru/v2.0/",
+			"token": "aaaaaaaaaaaaaaaaaaaaaaaaaaabcedf1234567890",
+			"user_id": 123456
+		},
+		{
+			"name": "DTF",
+			"shortname": "dtf",
+			"domain": "https://dtf.ru",
+			"api_domain": "https://api.dtf.ru/v2.0/",
+			"token": "aaaaaaaaaaaaaaaaaaaaaaaaaaabcedf1234567890",
+			"user_id": 123456
+		},
+		{
+			"name": "vc.ru",
+			"shortname": "vc",
+			"domain": "https://vc.ru",
+			"api_domain": "https://api.vc.ru/v2.0/",
+			"token": "aaaaaaaaaaaaaaaaaaaaaaaaaaabcedf1234567890",
+			"user_id": 123456
+		}
+	],
+	"TELEGRAM": {
+		"TOKEN": "000000000:AAAAAAAAAAAAAAAAAAAAA",
+		"CHANNEL": -100123456789
+	},
+	"USER_AGENT": "Chrome/90.0.0.1"
+}
